@@ -1,3 +1,6 @@
+:root {
+  --background: #333333;
+}
 .loader {
   --duration: 3s;
   --primary: rgb(255, 196, 21, 1);
